@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I’m Lorraine Marange 👋 
+**Certified Caregiver, TEFL English Teacher & Aspiring Web Developer** | Lenasia South, Johannesburg, SA
 
-<!--
-**Lorraine-Lolo/Lorraine-Lolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BYU-Pathway PC 102 Student** — building university & professional skills  
+🔄 **Career pivot**: Chose Software Development over Applied Health for global opportunities  
+✅ **PC 101: A** | After completing PC 101, I built + deployed this portfolio from scratch with HTML/CSS  
+📚 **120hr TEFL Certified (TEFL Universal)** | Online English Teacher at Native Camp  
+🔄 **Now**: Learning JavaScript, responsive design, & collaboration in PC 102  
+💡 I bring patience from caregiving + communication from TEFL into debugging code
 
-Here are some ideas to get you started:
+**📂 Portfolio**: [lorraine-lolo.github.io/LorraineMarange-Portfolio](https://lorraine-lolo.github.io/LorraineMarange-Portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Tech**: HTML | CSS | GitHub Pages | Learning JavaScript  
+**Teaching**: 120hr TEFL | ESL @ Native Camp | Cross-cultural Communication  
+**Care**: Certified Caregiver | Patient Support | Attention to Detail
