@@ -5,7 +5,7 @@
 - 💼 **Career pivot**: Chose Software Development over Applied Health for global opportunities
 - ✅ **PC 101: A+** | After completing PC 101, I built & deployed this portfolio from scratch with HTML/CSS
 - ✅ **PC 102: A+** | Strengthened dev + problem-solving skills
-- 🔄 **PC 103: In Progress** | University Skills + Introduction to Programming Certificate - Week 3 of 7
+- 🔄 **PC 103: University Skills A+ + Introduction to Programming Certificate A+
 - 📚 **120hr TEFL Certified (TEFL Universal)** | Online English Teacher at Native Camp
 - 💡 **Now**: Learning JavaScript, responsive design, & collaboration
 - 🙏 I bring patience from caregiving + communication from TEFL into debugging code
